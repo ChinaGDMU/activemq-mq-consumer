@@ -1,0 +1,13 @@
+
+spring:
+  activemq:
+    broker-url: tcp://localhost:13800
+    user: admin
+    password: cr2018
+    pool:
+      enabled: true
+      max-connections: 20
+      idle-timeout: 30000
+      expiry-timeout: 0
+server:
+  port: 8081

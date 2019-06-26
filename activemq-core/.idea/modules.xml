@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../active-mq-consumer/active-mq-consumer.iml" filepath="$PROJECT_DIR$/../active-mq-consumer/active-mq-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../active-mq-producer/active-mq-producer.iml" filepath="$PROJECT_DIR$/../active-mq-producer/active-mq-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activemq-core.iml" filepath="$PROJECT_DIR$/activemq-core.iml" />
+    </modules>
+  </component>
+</project>
